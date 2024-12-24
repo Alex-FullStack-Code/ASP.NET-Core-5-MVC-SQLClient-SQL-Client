@@ -1,0 +1,255 @@
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.exe
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.deps.json
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.runtimeconfig.json
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.runtimeconfig.dev.json
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.pdb
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.Views.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.Views.pdb
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.csproj.AssemblyReference.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.AssemblyInfoInputs.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.AssemblyInfo.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.csproj.CoreCompileInputs.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.MvcApplicationPartsAssemblyInfo.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.RazorAssemblyInfo.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.RazorAssemblyInfo.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\staticwebassets\HealthAppFrontend.StaticWebAssets.Manifest.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.TagHelpers.input.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.TagHelpers.output.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.RazorCoreGenerate.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.RazorTargetAssemblyInfo.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.RazorTargetAssemblyInfo.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.Views.pdb
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.pdb
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.genruntimeconfig.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.csproj.CopyComplete
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\DoctorFront\Index.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\MedicalCenterFront\Index.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\ClinicalSpecialtyFront\Index.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\DoctorFront\Create.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\ClinicalSpecialtyFront\Details.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\MedicalCenterFront\Details.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\DoctorFront\Details.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\ClinicalSpecialtyFront\Create.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\MedicalCenterFront\Create.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\ClinicalSpecialtyFront\Delete.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\ClinicalSpecialtyFront\Edit.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\MedicalCenterFront\Edit.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\MedicalCenterFront\Delete.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\DoctorFront\Edit.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\DoctorFront\Delete.cshtml.g.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_notificationPartial.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.exe
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.deps.json
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.runtimeconfig.json
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.runtimeconfig.dev.json
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.pdb
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.Views.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\HealthAppFrontend.Views.pdb
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.csproj.AssemblyReference.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.AssemblyInfoInputs.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.AssemblyInfo.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.csproj.CoreCompileInputs.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.RazorAssemblyInfo.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.RazorAssemblyInfo.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.TagHelpers.input.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.TagHelpers.output.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.RazorCoreGenerate.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\ClinicalSpecialtyFront\Create.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\ClinicalSpecialtyFront\Delete.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\ClinicalSpecialtyFront\Details.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\ClinicalSpecialtyFront\Edit.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\ClinicalSpecialtyFront\Index.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\DoctorFront\Create.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\DoctorFront\Delete.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\DoctorFront\Details.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\DoctorFront\Edit.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\DoctorFront\Index.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\MedicalCenterFront\Create.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\MedicalCenterFront\Delete.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\MedicalCenterFront\Details.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\MedicalCenterFront\Edit.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\MedicalCenterFront\Index.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_notificationPartial.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.RazorTargetAssemblyInfo.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.RazorTargetAssemblyInfo.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.Views.pdb
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\staticwebassets\HealthAppFrontend.StaticWebAssets.Manifest.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\staticwebassets\HealthAppFrontend.StaticWebAssets.Pack.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.HealthAppFrontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.HealthAppFrontend.props
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.HealthAppFrontend.props
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.HealthAppFrontend.props
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAp.C5A0BCA2.Up2Date
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.pdb
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\HealthAppFrontend\obj\Debug\netcoreapp3.1\HealthAppFrontend.genruntimeconfig.cache

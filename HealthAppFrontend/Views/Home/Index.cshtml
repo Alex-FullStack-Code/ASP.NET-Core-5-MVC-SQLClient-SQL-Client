@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+
+	@*<div class="bg-success p-2 text-dark bg-opacity-10 p-5">*@
+		<div class="p-2 bg-light text-dark p-5">
+		<h1 class="display-4">Health App</h1>
+		<span class="fs-5 blue-600">Agregando cuidado a su vida</span>
+	</div>	
+
+
+	<div class="d-flex flex-row justify-content-around mt-5">
+		<div class="card" style="width: 18rem">
+			<img src="https://images.pexels.com/photos/1170979/pexels-photo-1170979.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="card-img-top" alt="...">
+			<div class="card-body">
+				<h5 class="card-title">Doctores</h5>
+				<p class="card-text">Aqui podras encontrar toda la información relevante de los doctores</p>
+				<a asp-area="" asp-controller="DoctorFront" asp-action="Index" class="btn btn-primary">Ver más</a>
+			</div>
+		</div>
+
+		<div class="card" style="width: 18rem">
+			<img src="https://images.pexels.com/photos/263402/pexels-photo-263402.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="card-img-top" alt="...">
+			<div class="card-body">
+				<h5 class="card-title">Centros Medicos</h5>
+				<p class="card-text">Aqui podras encontrar todos nuestros centros medicos</p>
+				<a asp-area="" asp-controller="MedicalCenterFront" asp-action="Index" class="btn btn-primary">Ver más</a>
+			</div>
+		</div>
+
+
+
+		<div class="card" style="width: 18rem">
+			<img src="https://images.pexels.com/photos/1250655/pexels-photo-1250655.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="card-img-top" alt="...">
+			<div class="card-body">
+				<h5 class="card-title">Especialidades</h5>
+				<p class="card-text">Aqui podras encontrar todas nuestras especialidades</p>
+				<a asp-area="" asp-controller="ClinicalSpecialtyFront" asp-action="Index" class="btn btn-primary">Ver más</a>
+			</div>
+		</div>
+
+	</div>
+
+</div>

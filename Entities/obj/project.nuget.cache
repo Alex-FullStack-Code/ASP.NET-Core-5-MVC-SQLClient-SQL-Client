@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SkOPQS9nD9g=",
+  "success": true,
+  "projectFilePath": "C:\\Home\\Cоре MVC Dapper\\HealthApp_NetCore-main\\Entities\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smkwo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\smkwo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\smkwo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,47 @@
+C:\academia\HealthApp\Entities\bin\Debug\net5.0\Models.deps.json
+C:\academia\HealthApp\Entities\bin\Debug\net5.0\Models.dll
+C:\academia\HealthApp\Entities\bin\Debug\net5.0\Models.pdb
+C:\academia\HealthApp\Entities\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+C:\academia\HealthApp\Entities\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\academia\HealthApp\Entities\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\academia\HealthApp\Entities\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\academia\HealthApp\Entities\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\academia\HealthApp\Entities\obj\Debug\net5.0\Models.dll
+C:\academia\HealthApp\Entities\obj\Debug\net5.0\refint\Models.dll
+C:\academia\HealthApp\Entities\obj\Debug\net5.0\Models.pdb
+C:\academia\HealthApp\Entities\obj\Debug\net5.0\ref\Models.dll
+C:\academia\Proyectos\Tercer Proyecto\HealthApp\Entities\bin\Debug\net5.0\Models.deps.json
+C:\academia\Proyectos\Tercer Proyecto\HealthApp\Entities\bin\Debug\net5.0\Models.dll
+C:\academia\Proyectos\Tercer Proyecto\HealthApp\Entities\bin\Debug\net5.0\Models.pdb
+C:\academia\Proyectos\Tercer Proyecto\HealthApp\Entities\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+C:\academia\Proyectos\Tercer Proyecto\HealthApp\Entities\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\academia\Proyectos\Tercer Proyecto\HealthApp\Entities\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\academia\Proyectos\Tercer Proyecto\HealthApp\Entities\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\academia\Proyectos\Tercer Proyecto\HealthApp\Entities\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\academia\Proyectos\Tercer Proyecto\HealthApp\Entities\obj\Debug\net5.0\Models.dll
+C:\academia\Proyectos\Tercer Proyecto\HealthApp\Entities\obj\Debug\net5.0\refint\Models.dll
+C:\academia\Proyectos\Tercer Proyecto\HealthApp\Entities\obj\Debug\net5.0\Models.pdb
+C:\academia\Proyectos\Tercer Proyecto\HealthApp\Entities\obj\Debug\net5.0\ref\Models.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\Entities\bin\Debug\net5.0\Models.deps.json
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\Entities\bin\Debug\net5.0\Models.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\Entities\bin\Debug\net5.0\Models.pdb
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\Entities\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\Entities\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\Entities\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\Entities\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\Entities\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\Entities\obj\Debug\net5.0\Models.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\Entities\obj\Debug\net5.0\refint\Models.dll
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\Entities\obj\Debug\net5.0\Models.pdb
+C:\academia\Proyectos\Tercer Proyecto\App\HealthApp_Backend\Entities\obj\Debug\net5.0\ref\Models.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\Entities\bin\Debug\net5.0\Models.deps.json
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\Entities\bin\Debug\net5.0\Models.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\Entities\bin\Debug\net5.0\Models.pdb
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\Entities\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\Entities\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\Entities\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\Entities\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\Entities\obj\Debug\net5.0\Models.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\Entities\obj\Debug\net5.0\refint\Models.dll
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\Entities\obj\Debug\net5.0\Models.pdb
+C:\Home\Cоре MVC Dapper\HealthApp_NetCore-main\Entities\obj\Debug\net5.0\ref\Models.dll

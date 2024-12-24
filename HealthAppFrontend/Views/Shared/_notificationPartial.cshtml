@@ -1,0 +1,19 @@
+﻿<script>
+
+	var msg = @(TempData["Message"] != null ? Html.Raw(TempData["Message"]) : Html.Raw("undefined"));
+
+
+	if (msg)
+	{
+		if(msg.provider == "sweetAlert")
+		{
+			swal.fire({
+				title: msg.title,
+				text: msg.text,
+				icon: msg.icon
+			});
+		} else {
+			toastr[msg.type](msg.text, msg.title)
+		}
+	}
+</script>
